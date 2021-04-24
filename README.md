@@ -1,0 +1,2 @@
+# ipayos-payment-for-woocommerce
+This Payment Gateway For WooCommerce extends the functionality of WooCommerce to accept payments from credit/debit cards using iPayOS Gateway. iPayOS Payment Gateway for WooCommerce makes your website ready to use iPayOS payment gateway to accept credit/debit cards on your e-commerce store in safe way.   iPayOS is most widely used payment gateway to process payments online and accepts Visa, MasterCard, Discover and other variants of cards.
