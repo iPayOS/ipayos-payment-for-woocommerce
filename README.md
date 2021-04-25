@@ -15,8 +15,11 @@
 **License:** Under GPL2
 
 
-# ipayos-payment-for-woocommerce
+## ipayos-payment-for-woocommerce
 This Payment Gateway For WooCommerce extends the functionality of WooCommerce to accept payments from credit/debit cards using iPayOS Gateway. iPayOS Payment Gateway for WooCommerce makes your website ready to use iPayOS payment gateway to accept credit/debit cards on your e-commerce store in safe way.   iPayOS is most widely used payment gateway to process payments online and accepts Visa, MasterCard, Discover and other variants of cards.
+
+### Contribute
+To contribute to this plugin feel free to fork it on GitHub [iPayOS Woocommerce Payment Gateway on GitHub](https://github.com/iPayOS/ipayos-payment-for-woocommerce)
 
 ### Installation
 1. 	Download the plugin zip file
@@ -39,3 +42,11 @@ __*You can select the radio button next to iPayOS from the list of payment gatew
 * __Client Token__  - enter your Client Token here. You will get this in your iPayOS merchant portal [iPayOS](https://www.ipayos.com).
 * __Client Secret__  - enter your Client Secret here. You will get this in your iPayOS merchant portal [iPayOS](https://www.ipayos.com).
 * Click on __Save Changes__ for the changes you made to be effected.
+
+## Frequently Asked Questions
+
+
+### What Do I Need To Use The Plugin
+
+1.	You need to have the WooCommerce plugin installed and activated on your WordPress site.
+2.	You need to open a merchant account on [iPayOS](https://www.ipayos.com)
