@@ -50,3 +50,9 @@ __*You can select the radio button next to iPayOS from the list of payment gatew
 
 1.	You need to have the WooCommerce plugin installed and activated on your WordPress site.
 2.	You need to open a merchant account on [iPayOS](https://www.ipayos.com)
+
+### How I can TEST the Payment
+Following TEST credit card can be used to test your integration.
+* Card No : 4564456445644564
+* Expiry Date : 05/22
+* CCV : 123
